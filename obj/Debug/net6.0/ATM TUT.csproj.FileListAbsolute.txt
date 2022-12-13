@@ -1,0 +1,5 @@
+D:\C#\ATM TUT\obj\Debug\net6.0\ATM TUT.csproj.AssemblyReference.cache
+D:\C#\ATM TUT\obj\Debug\net6.0\ATM TUT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ATM TUT\obj\Debug\net6.0\ATM TUT.AssemblyInfoInputs.cache
+D:\C#\ATM TUT\obj\Debug\net6.0\ATM TUT.AssemblyInfo.cs
+D:\C#\ATM TUT\obj\Debug\net6.0\ATM TUT.csproj.CoreCompileInputs.cache
